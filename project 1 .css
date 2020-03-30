@@ -1,0 +1,57 @@
+body {
+    background-color: #222831;
+    font-size: 16px;
+    color: #eeeeee;
+}
+
+img {
+    width: 150px;
+    height: 150;
+}
+
+.PI {
+    position: absolute;
+    left: 79px;
+    width: 555px;
+    height: 300px;
+    background-color: #393e46;
+    border: 5px solid #00adb5;
+}
+
+.contact {
+    position: absolute;
+    right: 81px;
+    height: 300px;
+    width: 555px;
+    border: 5px solid #00adb5;
+    background-color: #393e46;
+    top: 8px;
+}
+
+h2 {
+    text-align: center;
+    background-color: #00adb5;
+}
+
+.skills {
+    position: absolute;
+    bottom: 12px;
+    left: 79px;
+    height: 300px;
+    width: 555px;
+    border: 5px solid #00adb5;
+    background-color: #393e46;
+}
+
+.certifi {
+    position: absolute;
+    bottom: 12px;
+    right: 79px;
+    height: 300px;
+    width: 555px;
+    border: 5px solid #00adb5;
+    background-color: #393e46;
+}
+
+
+}
